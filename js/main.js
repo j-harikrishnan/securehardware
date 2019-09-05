@@ -173,6 +173,9 @@
 	};
 	scrollWindow();
 
+	$('.navbar-collapse a').click(function(){
+		$(".navbar-collapse").collapse('hide');
+	});
 	
 
 	var counter = function() {
