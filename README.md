@@ -1,5 +1,4 @@
-
-GitHub forks GitHub stars GitHub contributors GitHub last commit
+#Hacktoberfest securehardware support
 
 Register in Hacktoberfest 2019
 Visit Hacktoberfest 2019 website
