@@ -1,4 +1,4 @@
-#Hacktoberfest securehardware support
+# Hacktoberfest securehardware support
 
 * Register in Hacktoberfest 2019
 * Visit Hacktoberfest 2019 website
@@ -22,7 +22,7 @@
 
 --
 
-# Code of Conduct
+## Code of Conduct
 
 Usage of foul language, addition of irrelevant links to Resources.md will lead to PR being tagged as spam
 
