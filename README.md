@@ -1,7 +1,7 @@
 #Hacktoberfest securehardware support
 Steps to participate in Hackoctober Fest
-1) Register in Hacktoberfest 2019.
-2) Visit Hacktoberfest 2019 website.
+1) Register in Hacktoberfest 2020.
+2) Visit Hacktoberfest 2020 website.
 3) Register using GitHub.
 4) Open Pull Request between Oct 1 - Oct 31.
 5) Creating a Pull Request.
